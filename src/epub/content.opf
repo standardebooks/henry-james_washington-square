@@ -69,6 +69,18 @@
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Dimitri Papadopoulos</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Papadopoulos, Dimitri</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Lynn A. Weinberg</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Weinberg, Lynn A.</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Stuart Bennett</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Bennett, Stuart</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Mary Willard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Willard, Mary</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
