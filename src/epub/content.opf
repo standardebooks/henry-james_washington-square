@@ -46,7 +46,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman is courted by a man her father disapproves of.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Catherine Sloper is described as a plain and not terribly clever young lady, but she stands to inherit a fortune from her father. Men do not pay much attention to her until she meets Mr. Townsend. The two quickly become interested in each other, but Catherine’s father disapproves of any match. He has determined that Townsend is an idler and only cares about Catherine’s money. The meddlesome Aunt Penniman, who has a tendency to embellish and add drama to these kinds of situations, becomes overly involved, trying to steer each actor according to her misguided notions.&lt;/p&gt;
+			&lt;p&gt;Catherine Sloper is regarded as a shy, plain, and not very clever young lady. She lives with her widowed father, a respected doctor, in Washington Square, which in the mid-1800s is a fairly new neighborhood in Greenwich Village. Catherine has a sizable income left by her mother, and stands to inherit a fortune from her father. Men do not pay much attention to her until she meets Mr. Townsend. The two quickly become interested in each other, but Catherine’s father disapproves of the match. He has determined that Townsend is an idler and only cares about Catherine’s money. Catherine refuses to give up Townsend, and remains as firmly for him as her father is against him. The meddlesome aunt, Mrs. Penniman, becomes overly involved, trying to steer each actor according to her own foolish and romantic notions.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt; considered &lt;i&gt;Washington Square&lt;/i&gt; one of his poorer novels, and thought that Catherine was the only good part of it. Later critics were more favorable. It was adapted as a play, &lt;i&gt;The Heiress&lt;/i&gt;, in 1947, and into a film by the same name shortly after. It has seen other adaptations, and the play has been revived several times on Broadway.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2870</dc:source>
@@ -65,7 +66,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/James_McNeill_Whistler</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79032293</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1"> David Price</dc:contributor>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
